@@ -1,1 +1,1 @@
-# StickerSmash
+# StickerSmash_ReactNative
